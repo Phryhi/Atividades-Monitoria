@@ -8,12 +8,10 @@ Esta é a estruturação dos materias:
 
 ```
 semana-X/
-├── exercicios/
-│   ├── ex01.md
-│   └── ex02.md
-└── respostas/
-    ├── ex01.py
-    └── ex02.py
+   ├── exercicios.md
+   └── respostas/
+       ├── ex01.py
+       ├── ex02.py
 ```
 
 - Toda semana serão liberados de 5 a 6 exercícios
@@ -24,12 +22,12 @@ semana-X/
 
 > Data: 12/02 - 19:30 & 21:25
 
-[Exercícios]()  
-[Respostas]() - Liberadas :)
+[Exercícios](semana-1/exercicios.md)  
+[Respostas](semana-1/respostas) - Liberadas :)
 
 ## Semana 2
 
 > Data: 19/02, 19:30 & 21:25
 
-[Exercícios]()  
-[Respostas]() - Liberadas :)
+[Exercícios](semana-2/exercicios.md)  
+[Respostas](semana-2/respostas) - Liberadas :)
