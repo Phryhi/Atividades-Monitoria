@@ -22,7 +22,7 @@ Faça um programa para uma loja de tintas, o programa deverá pedir o tamanho em
 Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 16 litros, que custam R$70,00. 
 Informe ao usuário a quantidade de latas de tinta a serem compradas e o preço total.
 
-## Exercicio 05
+## Exercício 05*
 Faça um programa que receba quanto você recebe por hora e quantas horas você trabalha por mês. 
 Calcule seu salário bruto e exiba. 
 
@@ -36,6 +36,6 @@ Calcule seu salário bruto e exiba.
 
 Seguindo a tabela acima, calcule e exiba o valor do imposto de renda com base no salário bruto e por fim calcule seu salário líquido.
 
-## Exercicio 06
+## Exercício 06*
 
 Faça um programa que leia três valores, imprima o maior dos três valores seguido por um espaço e a mensagem "é o maior".
