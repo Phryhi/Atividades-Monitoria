@@ -16,7 +16,7 @@ semana-X/
 
 - Toda semana serão liberados de 5 a 6 exercícios
 - As respostas serão liberadas no dia seguinte à monitoria
-- Materiais adicionais solicitados pelos alunos serão adicionados em uma pasta separada
+- Materiais adicionais solicitados serão adicionados em uma pasta separada
 
 ## Semana 1
 
