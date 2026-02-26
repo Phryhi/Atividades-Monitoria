@@ -30,4 +30,11 @@ semana-X/
 > Data: 19/02, 19:30 & 21:25
 
 [Exercícios](semana-2/exercicios.md)  
-[Respostas](semana-2/respostas) - Liberadas :)
+[Respostas](semana-2/respostas) - Liberadas :)  
+
+## Semana 3
+
+> Data: 26/02, 19:30 & 21:25
+
+[Exercícios](semana-3/exercicios.md)  
+[Respostas](semana-3/respostas) - Aguardando Liberação :(
