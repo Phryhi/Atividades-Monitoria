@@ -7,16 +7,18 @@ Este repositório tem como objetivo facilitar o compartilhamento de exercícios 
 Esta é a estruturação dos materias:  
 
 ```
-semana-X/
-   ├── exercicios.md
-   └── respostas/
-       ├── ex01.py
-       ├── ex02.py
+Atividades-Monitoria
+   ├──conteudo-extra.md
+   └──semana-X/
+      ├── exercicios.md
+      └── respostas/
+          ├── ex01.py
+          ├── ex02.py
 ```
 
 - Toda semana serão liberados de 5 a 6 exercícios
 - As respostas serão liberadas no dia seguinte à monitoria
-- Materiais adicionais solicitados serão adicionados em uma pasta separada
+- Materiais adicionais solicitados estarão em [Conteúdo Extra](conteudo-extra.md)
 
 ## Semana 1
 
