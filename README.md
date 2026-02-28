@@ -39,4 +39,4 @@ Atividades-Monitoria
 > Data: 26/02, 19:30 & 21:25
 
 [Exercícios](semana-3/exercicios.md)  
-[Respostas](semana-3/respostas) - Aguardando Liberação :(
+[Respostas](semana-3/respostas) - Liberadas :)
