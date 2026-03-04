@@ -1,4 +1,4 @@
-# Semana 03
+# Semana 04
 
 ## Exercício 01
 Faça um Programa que leia um número inteiro maior que 0 e menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
