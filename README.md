@@ -40,3 +40,10 @@ Atividades-Monitoria
 
 [Exercícios](semana-3/exercicios.md)  
 [Respostas](semana-3/respostas) - Liberadas :)
+
+## Semana 4
+
+> Data: 05/03, 19:30 & 21:25
+
+[Exercícios](semana-3/exercicios.md)  
+[Respostas](semana-3/respostas) - Aguardando Liberação :(
