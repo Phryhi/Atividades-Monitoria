@@ -19,9 +19,7 @@ de acordo com a tabela abaixo:
 
 ## Exercício 03
 
-Dado um número inteiro n e as notas finais de n alunos, determine quantos alunos 
-ficaram de recuperação. Um aluno está de recuperação se sua nota fina está entre 3.0 e 5.0, 
-a nota máxima é 10.0.
+Faça um programa que leia as notas de 3 alunos, determine se ele foi aprovado, está de recuperação ou foi reprovado. Um aluno está de recuperação se sua nota final está entre 3.0 e 5.0, abaixo disso o aluno foi reprovado, acima aprovado.
 
 ## Exercício 04
 
