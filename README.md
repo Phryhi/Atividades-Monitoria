@@ -46,4 +46,11 @@ Atividades-Monitoria
 > Data: 05/03, 19:30 & 21:25
 
 [Exercícios](semana-4/exercicios.md)  
-[Respostas](semana-4/respostas) - Aguardando Liberação :(
+[Respostas](semana-4/respostas) - Liberadas :)
+
+## Semana 5
+
+> Data: 12/03, 19:30 & 21:25
+
+[Exercícios](semana-5/exercicios.md)  
+[Respostas](semana-5/respostas) - Aguardando Liberação :(
