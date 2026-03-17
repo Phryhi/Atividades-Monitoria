@@ -53,4 +53,4 @@ Atividades-Monitoria
 > Data: 12/03, 19:30 & 21:25
 
 [Exercícios](semana-5/exercicios.md)  
-[Respostas](semana-5/respostas) - Aguardando Liberação :(
+[Respostas](semana-5/respostas) - Liberadas :)
