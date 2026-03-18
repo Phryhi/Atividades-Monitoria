@@ -54,3 +54,10 @@ Atividades-Monitoria
 
 [Exercícios](semana-5/exercicios.md)  
 [Respostas](semana-5/respostas) - Liberadas :)
+
+## Semana 6
+
+> Data: 19/03, 19:30 & 21:25
+
+[Exercícios](semana-6/exercicios.md)  
+[Respostas](semana-6/respostas) - Aguardando Liberação :(
