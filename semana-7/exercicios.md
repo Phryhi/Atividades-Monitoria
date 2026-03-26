@@ -21,9 +21,9 @@ operação deve ser repetida, caso contrário o programa deve encerrar.
 Dada uma sequência de números inteiros diferentes de zero, terminada por um zero, calcular a sua soma.   
 Por exemplo, para a sequência:
 
-> exemplo input: 12   17   4   -6   8   0
+> Input: 12   17   4   -6   8   0
 
-> Soma: 35
+> Saída: 35
 
 ## Exercício 04
 
