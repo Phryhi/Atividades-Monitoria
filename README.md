@@ -64,7 +64,7 @@ Atividades-Monitoria
 
 ## Semana 7
 
-> Data: 12/03, 19:30 & 21:25
+> Data: 26/03, 19:30 & 21:25
 
 [Exercícios](semana-7/exercicios.md)  
 [Respostas](semana-7/respostas) - Aguardando Liberação :(
