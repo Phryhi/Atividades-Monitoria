@@ -67,4 +67,4 @@ Atividades-Monitoria
 > Data: 26/03, 19:30 & 21:25
 
 [Exercícios](semana-7/exercicios.md)  
-[Respostas](semana-7/respostas) - Aguardando Liberação :(
+[Respostas](semana-7/respostas) - Liberadas :)
