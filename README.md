@@ -68,3 +68,10 @@ Atividades-Monitoria
 
 [Exercícios](semana-7/exercicios.md)  
 [Respostas](semana-7/respostas) - Liberadas :)
+
+## Semana 8
+
+> Data: 02/04, 19:30 & 21:25
+
+[Exercícios](semana-8/exercicios.md)  
+[Respostas](semana-8/respostas) - Aguardando Liberação :(
