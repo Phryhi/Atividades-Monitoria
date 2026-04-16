@@ -81,7 +81,7 @@ Atividades-Monitoria
 
 > Data: 16/04, 19:30 & 21:25
 
-[Exercícios](semana-10/exercicios.md)  
+[Exercícios](semana-9/exercicios.md)  
 [Respostas](semana-10/respostas) - Aguardando Liberação :(
 
 
