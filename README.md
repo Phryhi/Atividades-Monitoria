@@ -74,14 +74,20 @@ Atividades-Monitoria
 > Data: 02/04 e 09/04, 19:30 & 21:25
 
 [Exercícios](semana-8/exercicios.md)  
-[Respostas](semana-8/respostas) - Aguardando Liberação :(
+[Respostas](semana-8/respostas) - Liberadas :)
 
 
 ## Semana 10
 
 > Data: 16/04, 19:30 & 21:25
 
-[Exercícios](semana-9/exercicios.md)  
-[Respostas](semana-10/respostas) - Aguardando Liberação :(
+[Exercícios](semana-10/exercicios.md)  
+[Respostas](semana-10/respostas) - Liberadas :)
 
 
+## Semana 11
+
+> Data: 30/04, 19:30 & 21:25
+
+[Exercícios](semana-11/exercicios.md)  
+[Respostas](semana-11/respostas) - Aguardando Liberação :(
